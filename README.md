@@ -5,6 +5,12 @@ An interactive Tableau dashboard project analyzing AI and technology job market 
 This project focuses on salary analysis, hiring trends, industry demand, company hiring activity, and in-demand technical skills through engaging and colorful data visualizations.
 
 ---
+# 🖥️ Dashboard 
+
+Below is a preview of the Tableau dashboard created for this project:
+
+![AI Job Market Dashboard](job-market-dashboard.png)
+---
 
 # 🚀 Project Overview
 
